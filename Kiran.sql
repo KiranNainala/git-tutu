@@ -1,2 +1,2 @@
-select * from college
-where dept = "cse"
+select * from gite
+where dept = 'cse'
