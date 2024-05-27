@@ -1,2 +1,2 @@
 select * from gite
-where dept = 'cse'
+where dept = 'eee'
